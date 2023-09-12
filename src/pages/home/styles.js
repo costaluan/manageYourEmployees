@@ -4,17 +4,15 @@ const styles = StyleSheet.create({
     container: {
         flex: 1,
         backgroundColor: '#090320',
-        alignItems: 'center',
-        justifyContent: 'space-around',
         padding: 24,
+        paddingTop:85,
     },
     
     title: {
         color: "#fff",
         fontSize: 28,
-        marginLeft: 32,
-        marginRight: 32,
-        textAlign: "center",
+        marginBottom:32,
+        alignContent: "flex-end",
     },
     text: {
         color: "#fff",

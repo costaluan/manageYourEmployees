@@ -7,13 +7,14 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignContent: 'center',
     alignItems: 'center',
+    paddingTop: 85,
   },
   card: {
     backgroundColor: 'rgba(255, 255, 255, 0.1)',
     borderRadius: 15,
     border: 1,
     borderColor: "rgba(255, 255, 255)",
-    padding: 60,
+    padding: 40,
 
   },
   userImage: {
